@@ -17,7 +17,7 @@ from huggingface_hub.utils import RepositoryNotFoundError, HfHubHTTPError
 import mlflow
 
 mlflow.set_tracking_uri("http://localhost:5000")
-mlflow.set_experiment("mlops-training-experiment")
+mlflow.set_experiment("tourism-training-experiment")
 
 api = HfApi()
 
@@ -55,7 +55,7 @@ ordinal_features = [
     'PitchSatisfactionScore'
 ]
 
-city_tier_order = [3, 2, 1]
+city_tier_order = [1, 2, 3]
 prod_pitched_order = ['Basic', 'Standard', 'Deluxe', 'Super Deluxe', 'King']
 preferred_property_star_order = [1.0, 2.0, 3.0, 4.0, 5.0]
 pitch_satisfaction_score_order = [1, 2, 3, 4, 5]

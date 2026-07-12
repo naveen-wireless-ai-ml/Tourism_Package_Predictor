@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/909524463491505998/76ec4ded6f4d402c9f646fb0c48914b8/artifacts
+end_time: 1783857022090
+entry_point_name: ''
+experiment_id: '909524463491505998'
+lifecycle_stage: active
+run_id: 76ec4ded6f4d402c9f646fb0c48914b8
+run_name: dapper-toad-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783856950387
+status: 4
+tags: []
+user_id: root

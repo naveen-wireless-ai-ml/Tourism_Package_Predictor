@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/909524463491505998
+creation_time: 1783856926906
+experiment_id: '909524463491505998'
+last_update_time: 1783856926906
+lifecycle_stage: active
+name: tourism-training-experiment
